@@ -1,1 +1,1 @@
-This is a 3D array generation based ai learning. It is very inefficent and I need help figuring out what I can do to fix it. It's for a class project. There is a video on my youtube that goes over what a 20 hour timelapse looks like. Heres the youtube link: 
+This is a 3D array generation based ai learning. It is very inefficent and I need help figuring out what I can do to fix it. It's for a class project. There is a video on my youtube that goes over what a 20 hour timelapse looks like. Heres the youtube link: https://youtu.be/ISj6qvDz7q0
